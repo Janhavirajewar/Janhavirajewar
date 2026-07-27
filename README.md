@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Janhavirajewar&label=Profile%20Views&color=0e75b6&style=flat" alt="Janhavirajewar" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🔭 I’m currently working on **Building Java, Spring Boot, and MySQL Projects**
 
@@ -15,18 +15,18 @@
 
 - 🤝 I’m looking for help with **Spring Boot, Microservices, and AWS**
 
-- 👨‍💻 All of my projects are available at **https://github.com/Janhavirajewar**
-
 - 💬 Ask me about **Java, C++, OOP, JDBC, SQL, HTML, CSS, Git & GitHub**
+
+- 👨‍💻 All of my projects are available at **https://github.com/Janhavirajewar**
 
 - 📫 Reach me at **janhavirajewar@gmail.com**
 
-- ⚡ Fun fact **I enjoy solving coding challenges and continuously learning new technologies.**
+- ⚡ Fun fact: **I enjoy solving coding challenges and continuously learning new technologies.**
 
 <h3 align="left">🌐 Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="blank">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 </p>
@@ -59,10 +59,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
 </a>
 
-<a href="https://github.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
-</a>
-
 <a href="https://www.cprogramming.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45"/>
 </a>
@@ -81,20 +77,22 @@
 
 </p>
 
+<h3 align="left">📊 GitHub Stats</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Janhavirajewar&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Janhavirajewar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janhavirajewar&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janhavirajewar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janhavirajewar&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Janhavirajewar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Janhavirajewar&theme=onedark&row=1&column=7" alt="GitHub Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Janhavirajewar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophy"/>
 </p>
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
