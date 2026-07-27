@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Java Full Stack Developer from India 🇮🇳</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Janhavirajewar&label=Profile%20Views&color=0e75b6&style=flat" alt="Janhavirajewar" />
+  <img src="https://komarev.com/ghpvc/?username=Janhavirajewar&label=Profile%15Views&color=0e75b6&style=flat" alt="Janhavirajewar" />
 </p>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
@@ -18,7 +18,7 @@
 <h3 align="left">🌐 Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+<a href="https://www.linkedin.com/in/janhavirajewar/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 </p>
