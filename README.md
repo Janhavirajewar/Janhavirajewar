@@ -77,22 +77,24 @@
 
 </p>
 
-<h3 align="left">📊 GitHub Stats</h3>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Janhavirajewar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Janhavirajewar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janhavirajewar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janhavirajewar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Janhavirajewar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=Janhavirajewar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Janhavirajewar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophy"/>
 </p>
+
+
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
