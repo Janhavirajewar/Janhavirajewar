@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Java Full Stack Developer from India 🇮🇳</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Janhavirajewar&label=Profile%15Views&color=0e75b6&style=flat" alt="Janhavirajewar" />
+  <img src="https://komarev.com/ghpvc/?username=Janhavirajewar&label=Profile%20Views&color=0e75b6&style=flat" alt="Janhavirajewar" />
 </p>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
@@ -11,14 +11,22 @@
 
 - 🌱 I’m currently learning **Spring Boot, Hibernate, REST APIs, Docker, and AWS**
 
+- 👯 I’m looking to collaborate on **Java Full Stack and Spring Boot Projects**
+
+- 🤝 I’m looking for help with **Spring Boot, Microservices, and AWS**
+
+- 💬 Ask me about **Java, C++, OOP, JDBC, SQL, HTML, CSS, Git & GitHub**
+
 - 👨‍💻 All of my projects are available at **https://github.com/Janhavirajewar**
 
-- 📫 Reach me at **janhavirajewar@gmail.com**.
+- 📫 Reach me at **janhavirajewar@gmail.com**
+
+- ⚡ Fun fact: **I enjoy solving coding challenges and continuously learning new technologies.**
 
 <h3 align="left">🌐 Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/janhavirajewar/" target="_blank">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 </p>
@@ -72,17 +80,19 @@
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Janhavirajewar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Janhavirajewar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Janhavirajewar&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janhavirajewar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Janhavirajewar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Janhavirajewar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophy"/>
+</p>
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
