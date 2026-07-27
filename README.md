@@ -80,8 +80,7 @@
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Janhavirajewar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Janhavirajewar&show_icons=true&theme=tokyonight" /></p>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Janhavirajewar&layout=compact&theme=tokyonight" />
