@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Janhavirajewar&label=Profile%20Views&color=0e75b6&style=flat" alt="Janhavirajewar" />
 </p>
 
-<img align="right" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🔭 I’m currently working on **Building Java, Spring Boot, and MySQL Projects**
 
