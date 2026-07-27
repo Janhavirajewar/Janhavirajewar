@@ -11,17 +11,9 @@
 
 - 🌱 I’m currently learning **Spring Boot, Hibernate, REST APIs, Docker, and AWS**
 
-- 👯 I’m looking to collaborate on **Java Full Stack and Spring Boot Projects**
-
-- 🤝 I’m looking for help with **Spring Boot, Microservices, and AWS**
-
-- 💬 Ask me about **Java, C++, OOP, JDBC, SQL, HTML, CSS, Git & GitHub**
-
 - 👨‍💻 All of my projects are available at **https://github.com/Janhavirajewar**
 
-- 📫 Reach me at **janhavirajewar@gmail.com**
-
-- ⚡ Fun fact: **I enjoy solving coding challenges and continuously learning new technologies.**
+- 📫 Reach me at **janhavirajewar@gmail.com**.
 
 <h3 align="left">🌐 Connect with me:</h3>
 
@@ -91,8 +83,6 @@
   <img src="https://streak-stats.demolab.com?user=Janhavirajewar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Janhavirajewar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophy"/>
-</p>
+
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
