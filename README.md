@@ -5,23 +5,16 @@
   <img src="https://komarev.com/ghpvc/?username=Janhavirajewar&label=Profile%20Views&color=0e75b6&style=flat" alt="Janhavirajewar" />
 </p>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 - 🔭 I’m currently working on **Building Java, Spring Boot, and MySQL Projects**
 
 - 🌱 I’m currently learning **Spring Boot, Hibernate, REST APIs, Docker, and AWS**
 
-- 👯 I’m looking to collaborate on **Java Full Stack and Spring Boot Projects**
-
 - 🤝 I’m looking for help with **Spring Boot, Microservices, and AWS**
-
-- 💬 Ask me about **Java, C++, OOP, JDBC, SQL, HTML, CSS, Git & GitHub**
 
 - 👨‍💻 All of my projects are available at **https://github.com/Janhavirajewar**
 
 - 📫 Reach me at **janhavirajewar@gmail.com**
-
-- ⚡ Fun fact: **I enjoy solving coding challenges and continuously learning new technologies.**
 
 <h3 align="left">🌐 Connect with me:</h3>
 
