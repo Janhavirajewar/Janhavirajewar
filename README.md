@@ -26,7 +26,7 @@
 <h3 align="left">🌐 Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/janhavirajewar/" target="_blank">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 </p>
@@ -80,19 +80,19 @@
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Janhavirajewar&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Janhavirajewar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janhavirajewar&layout=compact&theme=radical&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janhavirajewar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Janhavirajewar&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Janhavirajewar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Janhavirajewar&theme=radical&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Janhavirajewar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophy"/>
 </p>
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
