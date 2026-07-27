@@ -77,7 +77,7 @@
 
 <p align="center">
   <img height="180" width="48%" src="https://streak-stats.demolab.com?user=Janhavirajewar&theme=tokyonight&hide_border=true" />
-  <img height="180" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janhavirajewar&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janhavirajewar&layout=compact&theme=tokyonight&hide_border=true"" />
 </p>
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
