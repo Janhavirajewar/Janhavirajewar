@@ -80,19 +80,19 @@
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Janhavirajewar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Janhavirajewar&show_icons=true&theme=radical&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janhavirajewar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janhavirajewar&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Janhavirajewar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Janhavirajewar&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Janhavirajewar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Janhavirajewar&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
