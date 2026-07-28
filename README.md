@@ -19,17 +19,27 @@
 
 <h3 align="left">📫 Connect with me</h3>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/janhavirajewar/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+<table>
+<tr>
+<td align="center">
+<a href="https://www.linkedin.com/in/janhavirajewar/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+</td>
 
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://github.com/Janhavirajewar" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+<td align="center">
+<a href="https://github.com/Janhavirajewar" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
+</a>
+</td>
+<td align="center">
+<a href="mailto:janhavirajewar@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail" height="30" width="40" alt="Gmail"/>
   </a>
-</p>
+</td>
+
+</tr>
+</table>
 
 <h3 align="left">💻 Languages and Tools:</h3>
 
@@ -81,11 +91,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="32%" src="https://streak-stats.demolab.com?user=Janhavirajewar&theme=tokyonight&hide_border=true" />
+  <img width="33%" src="https://streak-stats.demolab.com?user=Janhavirajewar&theme=tokyonight&hide_border=true" />
   &nbsp;
-  <img width="29%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Janhavirajewar&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="27%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Janhavirajewar&layout=compact&theme=tokyonight&hide_border=true" />
   &nbsp;
-  <img width="32%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Janhavirajewar&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="33%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Janhavirajewar&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
