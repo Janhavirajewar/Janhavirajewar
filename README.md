@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm Janhavi Rajewar</h1>
-<h3 align="center">A Passionate Java Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">A Passionate Java Full Stack Developer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Janhavirajewar&label=Profile%20Views&color=0e75b6&style=flat" alt="Janhavirajewar" />
 </p>
 
-<img align="right" alt="Coding" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-- 🔭 I’m currently working on **Building Java, Spring Boot, and MySQL Projects**
+<img align="right" alt="Coding" height="250" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🌱 I’m currently learning **Spring Boot, Hibernate, REST APIs, Docker, and AWS**
 
 - 🤝 I’m looking for help with **Spring Boot, Microservices, and AWS**
 
-- 👨‍💻 All of my projects are available at **https://github.com/Janhavirajewar**
-
-- 📫 Reach me at **janhavirajewar@gmail.com**
+- 📂 Explore my projects on GitHub **https://github.com/Janhavirajewar**
 
 <h3 align="left">📫 Connect with me</h3>
 
@@ -23,19 +19,24 @@
 <tr>
 <td align="center">
 <a href="https://www.linkedin.com/in/janhavirajewar/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32" width="32"/>
 </a>
 </td>
 
 <td align="center">
 <a href="https://github.com/Janhavirajewar" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="32" width="32"/>
 </a>
 </td>
 <td align="center">
 <a href="mailto:janhavirajewar@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" height="30" width="40" alt="Gmail"/>
+    <img src="https://cdn.simpleicons.org/gmail" height="32" width="32" alt="Gmail"/>
   </a>
+</td>
+<td>
+  <a href="https://github.com/Janhavirajewar/Portfolio" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/briefcase.png" alt="Portfolio" height="32" width="32"/>
+</a>
 </td>
 
 </tr>
@@ -88,8 +89,8 @@
 </a>
 
 </p>
-## 📊 GitHub Stats
-
+📊 GitHub Stats
+<br><br>
 <p align="center">
   <img width="33%" src="https://streak-stats.demolab.com?user=Janhavirajewar&theme=tokyonight&hide_border=true" />
   &nbsp;
@@ -98,4 +99,4 @@
   <img width="33%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Janhavirajewar&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<h3 align="center">⭐ Thanks for visiting my profile. Let's connect and build something amazing!</h3>
